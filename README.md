@@ -20,4 +20,4 @@ This project analyzes COVID-19 trends (cases and deaths) across BRICS countries 
 
 ### 1. Clone the Repository
 ```bash
-git clone 
+git clone https://github.com/Liso15/Covid_data_Analysis-.git
